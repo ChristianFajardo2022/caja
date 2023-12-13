@@ -1,0 +1,61 @@
+{
+  "actividades": [
+    {
+      "id": 1,
+      "titulo": "Santa ha puesto su toque mágico en el interior.",
+      "descripcion": "Las diferentes estaciones nos transportan a su casa en Rovaniemi, Finlandia.",
+      "concurrencia": "visita la villa",
+      "imagen": "/imagenes-actividades/imagen1.jpg",
+      "zona": ""
+    },
+    {
+      "id": 2,
+      "titulo": "Fábrica de regalos",
+      "descripcion": "Los elfos de Santa trabajan con pasión para que todos los niños reciban su regalo en Navidad, allí podrás entregar tu regalo, o comprarlo.",
+      "concurrencia": "todos los días",
+      "imagen": "/imagenes-actividades/imagen2.webp",
+      "zona": "interior"
+    },
+
+    {
+      "id": 3,
+      "titulo": "Foto con Santa",
+      "descripcion": "Santa está aquí y está listo para entregarte su mejor sonrisa. Aprovecha los accesorios y crea divertidos recuerdos que duren para siempre.",
+      "concurrencia": "todos los días",
+      "imagen": "/imagenes-actividades/imagen3.jpg",
+      "zona": "interior"
+    },
+    {
+      "id": 4,
+      "titulo": "Dulce Navidad",
+      "descripcion": "Cuenta la leyenda que los Elfos de Santa adoran este algodón que nace en la espesa nieve finlandesa y solo se puede disfrutar durante la Navidad ¿Te atreves a probar?",
+      "concurrencia": "Todos los días",
+      "imagen": "/imagenes-actividades/imagen4.jpg",
+      "zona": "Interior"
+    },
+    {
+      "id": 5,
+      "titulo": "Entrega un mensaje en Navidad",
+      "descripcion": "Graba un mensaje dirigido a esa personita que está esperando tu donación, o también podrás enviar tus buenos deseos a quien quieras.",
+      "concurrencia": "Todos los días",
+      "imagen": "/imagenes-actividades/imagen5.jpg",
+      "zona": "Interior"
+    },
+    {
+      "id": 6,
+      "titulo": "Sé Santa",
+      "descripcion": "Agarra con fuerza el saco de regalos, asegura tu gorro de Navidad y sé Santa por un instante, entrando por la chimenea como lo haría él. (No apto para aburridos).",
+      "concurrencia": "Todos los días",
+      "imagen": "/imagenes-actividades/imagen6.webp",
+      "zona": "Interior"
+    },
+    {
+      "id": 7,
+      "titulo": "Las Auroras",
+      "descripcion": "Según los habitantes de Rovaniemi, los colores de las auroras tienen un significado único, el verde que simboliza la vida o el púrpura que representa la sabiduría ancestral.",
+      "concurrencia": "todos los días",
+      "imagen": "/imagenes-actividades/imagen7.jpg",
+      "zona": "interior"
+    }
+  ]
+}
